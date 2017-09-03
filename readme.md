@@ -1,4 +1,4 @@
-Yet Another Circular Buffer
+Circular Buffer
 ===========================
 
 [![Build Status](https://travis-ci.org/cjhdev/circular_buffer.svg?branch=master)](https://travis-ci.org/cjhdev/circular_buffer)
@@ -43,4 +43,4 @@ cd -
 
 ## License
 
-Yet Another Circular Buffer has an MIT license.
+Circular Buffer has an MIT license.
