@@ -1,6 +1,8 @@
 Yet Another Circular Buffer
 ===========================
 
+[![Build Status](https://travis-ci.org/cjhdev/circular_buffer.svg?branch=master)](https://travis-ci.org/cjhdev/circular_buffer)
+
 - I am using C in an OO style so it is possible to have more than one instance
 - My interface names line up with the requirements but these are probably too generic for practical use
 - Buffer capacity is a compile time setting that defaults to 42 elements
